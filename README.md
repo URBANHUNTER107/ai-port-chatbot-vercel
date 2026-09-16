@@ -1,4 +1,4 @@
-# ai-portfolio
+# ai-portfolio -Vercel Deployed
 
 > A digital portfolio you can actually talk to.
 
